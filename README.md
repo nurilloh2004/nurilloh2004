@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 🚀 Languages and Tools:
 
 ![Python](https://img.shields.io/badge/Python-%23563D7C.svg?style=for-the-badge&logo=Python&logoColor=blue)
-![Sqlite3](https://img.shields.io/badge/Sqlite3-%23563D7C.svg?style=for-the-badge&logo=Sqlite3&logoColor=green)
+![Sqlite3](https://img.shields.io/badge/Sqlite3-%23563D7C.svg?style=for-the-badge&logo=Sqlite3&logoColor=rgb(21, 217, 21))
 ![PostgreSql](https://img.shields.io/badge/PostgreSql-%23563D7C.svg?style=for-the-badge&logo=PostgreSql&logoColor=blue)
 ![PyQt5](https://img.shields.io/badge/PyQt5-%23563D7C.svg?style=for-the-badge&logo=PyQt5&logoColor=Blue)
 ![Django](https://img.shields.io/badge/Django-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
