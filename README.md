@@ -5,22 +5,22 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on ... self study
+- 🌱 I’m currently learning ...Django RestFramework and PyQt5 with Sqlite3
+- 👯 I’m looking to collaborate on ...Django
+- 🤔 I’m looking for help with ...Nothing
+- 💬 Ask me about ...Anything
+- 📫 How to reach me: ... Currently impossible
+- 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
 -->
 ## 🚀 Languages and Tools:
 
-![Python](https://img.shields.io/badge/Python-%6633ff.svg?style=for-the-badge&logo=Python&logoColor=White)
-![Sqlite3](https://img.shields.io/badge/Sqlite3-%3d8f3d.svg?style=for-the-badge&logo=Sqlite3&logoColor=Green)
-![PostgreSql](https://img.shields.io/badge/PostgreSql-%23563D7C.svg?style=for-the-badge&logo=PostgreSql&logoColor=blue)
-![PyQt5](https://img.shields.io/badge/PyQt5-%23563D7C.svg?style=for-the-badge&logo=PyQt5&logoColor=Blue)
-![Django](https://img.shields.io/badge/Django-%004d00.svg?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%4000ff.svg?style=for-the-badge&logo=Python&logoColor=White)
+![Sqlite3](https://img.shields.io/badge/Sqlite3-%3d8f3d.svg?style=for-the-badge&logo=Sqlite3&logoColor=White)
+![PostgreSql](https://img.shields.io/badge/PostgreSql-%23563D7C.svg?style=for-the-badge&logo=PostgreSql&logoColor=White)
+![PyQt5](https://img.shields.io/badge/PyQt5-%23563D7C.svg?style=for-the-badge&logo=PyQt5&logoColor=White)
+![Django](https://img.shields.io/badge/Django-%23593d88.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
