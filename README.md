@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **nurilloh2004/nurilloh2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... Currently impossible
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
--->
+
 ## 🚀 Languages and Tools:
 
 ![Python](https://img.shields.io/badge/Python-%4000ff.svg?style=for-the-badge&logo=Python&logoColor=White)
