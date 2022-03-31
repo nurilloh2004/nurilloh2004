@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-%23563D7C.svg?style=for-the-badge&logo=Python&logoColor=blue)
 ![Sqlite3](https://img.shields.io/badge/Sqlite3-%23563D7C.svg?style=for-the-badge&logo=Sqlite3&logoColor=green)
 ![PostgreSql](https://img.shields.io/badge/PostgreSql-%23563D7C.svg?style=for-the-badge&logo=PostgreSql&logoColor=blue)
-![PyQt5](https://img.shields.io/badge/PyQt5-%23563D7C.svg?style=for-the-badge&logo=PyQt5&logoColor=blue)
+![PyQt5](https://img.shields.io/badge/PyQt5-%23563D7C.svg?style=for-the-badge&logo=PyQt5&logoColor=Blue)
 ![Django](https://img.shields.io/badge/Django-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
