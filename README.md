@@ -5,8 +5,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... self study
-- 🌱 I’m currently learning ...Django RestFramework and PyQt5 with Sqlite3
-- 👯 I’m looking to collaborate on ...Django
+- 🌱 I’m currently learning ...Django RestFramework
+- 👯 I’m looking to collaborate on ...Reactchi
 - 🤔 I’m looking for help with ...Nothing
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ... Currently impossible
