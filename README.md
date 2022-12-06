@@ -4,11 +4,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... self study
-- 🌱 I’m currently learning ...Django RestFramework
+- 🔭 I’m currently working on ... DevOps Engineering / Jenkins
+- 🌱 I’m currently learning ...Celery
 - 👯 I’m looking to collaborate on ...Reactchi
-- 🤔 I’m looking for help with ...Nothing
-- 💬 Ask me about ...Anything
+- 🤔 I’m looking for help with ... Raspberry Specialist
+- 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Currently impossible
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
