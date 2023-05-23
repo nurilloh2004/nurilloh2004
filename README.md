@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... DevOps Engineering / System adminstration
-- 🌱 I’m currently learning ...Terraform
-- 👯 I’m looking to collaborate on ...Front end developer
+- 🔭 I’m currently working on ... DevOps Engineering / Cloud engineering
+- 🌱 I’m currently learning ...K8s
+- 👯 I’m looking to collaborate on ...DevSysOps engineer
 - 🤔 I’m looking for help with ... Raspberry Specialist
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Currently impossible
